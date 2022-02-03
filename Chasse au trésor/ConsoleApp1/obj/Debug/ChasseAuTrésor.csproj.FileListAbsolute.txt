@@ -1,0 +1,7 @@
+C:\Users\promi\source\repos\Chasse au trésor\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\promi\source\repos\Chasse au trésor\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\promi\source\repos\Chasse au trésor\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\promi\source\repos\Chasse au trésor\ConsoleApp1\obj\Debug\ChasseAuTrésor.csproj.AssemblyReference.cache
+C:\Users\promi\source\repos\Chasse au trésor\ConsoleApp1\obj\Debug\ChasseAuTrésor.csproj.CoreCompileInputs.cache
+C:\Users\promi\source\repos\Chasse au trésor\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\promi\source\repos\Chasse au trésor\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
